@@ -1,0 +1,63 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+# Train
+
+train_questions_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/train_questions.tsv
+
+train_answers_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/train_answers.tsv
+
+train_merged_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/train_merged.txt
+
+train_questions:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/train_questions.pkl
+
+train_answers:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/train_answers.pkl
+
+# Test
+test_questions_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/test_questions.tsv
+
+test_answers_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/test_answers.tsv
+
+test_merged_file:
+  type: text.TextDataSet
+  filepath: data/01_raw/test_merged.txt
+
+test_questions:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/test_questions.pkl
+
+test_answers:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/test_answers.pkl
+
+model:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/model.pkl
+
+trained_model:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/trained_model.pkl
+
+tokenizer:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/tokenizer.pkl
+
+wikipedia_results:
+  type: text.TextDataSet
+  filepath: data/08_reporting/wikipedia_results.txt

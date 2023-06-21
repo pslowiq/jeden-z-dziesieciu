@@ -1,0 +1,100 @@
+{
+    "os": "Linux-5.19.0-45-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-20T03:22:12.282163",
+    "startedAt": "2023-06-20T03:22:11.449471",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "run"
+    ],
+    "state": "running",
+    "program": "/home/pslowiq/.local/bin/kedro",
+    "host": "pslowiq-NH5x-7xRCx-RDx",
+    "username": "pslowiq",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2867.2777499999997,
+        "min": 800.0,
+        "max": 4500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3416.705,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3398.85,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3399.47,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3310.042,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 2093.011,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3916.931,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3304.337,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 3399.202,
+            "min": 800.0,
+            "max": 4500.0
+        },
+        {
+            "current": 1694.721,
+            "min": 800.0,
+            "max": 4500.0
+        }
+    ],
+    "disk": {
+        "total": 191.94259643554688,
+        "used": 173.9724349975586
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.327247619628906
+    }
+}

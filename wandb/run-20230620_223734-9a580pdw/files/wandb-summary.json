@@ -1,0 +1,1 @@
+{"FS Accuracy": 0.13095238095238096, "FS PositiveAccuracy": 0.08, "FS NegativeAccuracy": 0.7777777777777778, "Epoch": 0, "_timestamp": 1687293573.4040265, "_runtime": 119.04447150230408, "_step": 1, "FS-5-SamplesMV Accuracy": 0.36904761904761907, "FS-5-SamplesMV PositiveAccuracy": 0.08, "FS-5-SamplesMV NegativeAccuracy": 0.7941176470588235, "_wandb": {"runtime": 118}}

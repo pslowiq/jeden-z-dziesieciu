@@ -1,0 +1,652 @@
+Question 0: Jak nazywa się pierwsza litera alfabetu greckiego?
+Answer 0: alfa
+First candidate: Alfa | Ratio: 0.75
+
+Question 1: Jak nazywa się dowolny odcinek łączący dwa punkty okręgu?
+Answer 1: cięciwa
+First candidate: Cięciwa | Ratio: 0.8571428571428571
+
+Question 2: W którym państwie rozpoczyna się akcja powieści „W pustyni i w puszczy”?
+Answer 2: w Egipcie
+First candidate: Port Said | Ratio: 0.2222222222222222
+
+Question 3: Czy w państwach starożytnych powoływani byli posłowie i poselstwa?
+Answer 3: tak
+First candidate: Filip II Macedoński | Ratio: 0.18181818181818182
+
+Question 4: W jakim zespole występowała Hanka w filmie „Żona dla Australijczyka”?
+Answer 4: Mazowsze
+First candidate: Elżbieta Czyżewska | Ratio: 0.3076923076923077
+
+Question 5: W którym państwie leży Bombaj?
+Answer 5: w Indiach
+First candidate: Honolulu | Ratio: 0.11764705882352941
+
+Question 6: Który numer boczny nosi czołg Rudy z „Czterech pancernych”?
+Answer 6: 102
+First candidate: Gustaw Jeleń | Ratio: 0.0
+
+Question 7: Co budował w Egipcie inżynier Tarkowski, ojciec Stasia?
+Answer 7: Kanał Sueski
+First candidate: Mieczysław Geniusz | Ratio: 0.26666666666666666
+
+Question 8: Czy owoce niektórych kaktusów są jadalne?
+Answer 8: tak
+First candidate: Drzewo | Ratio: 0.0
+
+Question 9: Kwartet – to ilu wykonawców?
+Answer 9: czterech	czworo	4
+First candidate: Parafia Najświętszego Zbawiciela we Włocławku | Ratio: 0.16129032258064516
+
+Question 10: Którzy rzemieślnicy występują w ostatniej powieści Witkacego?
+Answer 10: szewcy
+First candidate: Polska | Ratio: 0.16666666666666666
+
+Question 11: Jak nazywa się pierwiastek o symbolu Bq?
+Answer 11: becquerel
+First candidate: Wielomian | Ratio: 0.2222222222222222
+
+Question 12: Hymnem którego kraju jest pieśń „Gwiaździsty sztandar”?
+Answer 12: Stanów Zjednoczonych	USA
+First candidate: 3 marca | Ratio: 0.12903225806451613
+
+Question 13: Jak nazywał się sztywny kapelusz męski o zaokrąglonej główce i wąskim lekko uniesionym rondelku, modny w drugiej połowie XIX wieku?
+Answer 13: melonik
+First candidate: Cylinder (kapelusz) | Ratio: 0.23076923076923078
+
+Question 14: Jak nazywa się wypukła albo wklęsła powierzchnia cieczy w pobliżu ścianek naczynia?
+Answer 14: menisk
+First candidate: Menisk | Ratio: 0.8333333333333334
+
+Question 15: Jak nazywał się fizyk, który w 1876 r. wynalazł telefon?
+Answer 15: Aleksander Graham Bell
+First candidate: Kalendarium historii radia | Ratio: 0.375
+
+Question 16: Jak brzmi ulubione powiedzonko klucznika Horeszków Gerwazego?
+Answer 16: mopanku
+First candidate: Pan Tadeusz | Ratio: 0.3333333333333333
+
+Question 17: Którego gazu jest najwięcej w powietrzu?
+Answer 17: azotu
+First candidate: Obieg węgla w przyrodzie | Ratio: 0.20689655172413793
+
+Question 18: Czy szalej jadowity występuje w Polsce?
+Answer 18: tak
+First candidate: Lulek czarny | Ratio: 0.13333333333333333
+
+Question 19: Według przysłowia nos jest dla tabakiery czy tabakiera dla nosa?
+Answer 19: tabakiera dla nosa
+First candidate: Gwara myśliwska | Ratio: 0.42424242424242425
+
+Question 20: Punkt przecięcia osi w układzie współrzędnych to punkt zero czy linia odcięcia?
+Answer 20: punkt zero
+First candidate: Prosta | Ratio: 0.25
+
+Question 21: Kto jest autorem obrazu namalowanego w 1892 r. „Kobiety z Tahiti”?
+Answer 21: Paul Gauguin
+First candidate: Nave nave moe | Ratio: 0.24
+
+Question 22: Jak ma na imię brat Fidela Castro, który przejął po nim władzę?
+Answer 22: Raul
+First candidate: Saddam Husajn | Ratio: 0.23529411764705882
+
+Question 23: Co znaczy pochodzące z francuskiego słowo aliant?
+Answer 23: sojusznik
+First candidate: Liberalizm | Ratio: 0.10526315789473684
+
+Question 24: Który zwrotnik przecina Meksyk – Raka czy Koziorożca?
+Answer 24: Raka
+First candidate: 2017 | Ratio: 0.0
+
+Question 25: Jak nazywa się wzgórze w Paryżu na którym wybudowano bazylikę Sacré-Cœur?
+Answer 25: Montmartre
+First candidate: Montmartre | Ratio: 1.0
+
+Question 26: Jak z greckiego nazywa się założenie wymagające sprawdzenia?
+Answer 26: hipoteza
+First candidate: Platon | Ratio: 0.14285714285714285
+
+Question 27: Co znaczą słowa „Quo vadis”?
+Answer 27: dokąd idziesz
+First candidate: Henryk Sienkiewicz | Ratio: 0.3870967741935484
+
+Question 28: Który szesnastowieczny legendarny czarnoksiężnik zwany był polskim Faustem?
+Answer 28: Pan Twardowski
+First candidate: Pan Twardowski (postać) | Ratio: 0.7567567567567568
+
+Question 29: Jak nazywa się trucizna przyrządzona z korzenia szaleju?
+Answer 29: cykuta
+First candidate: Allelopatia | Ratio: 0.23529411764705882
+
+Question 30: Jak nazywa się stolica Kuby?
+Answer 30: Hawana
+First candidate: Fidel Castro | Ratio: 0.1111111111111111
+
+Question 31: Jak nazywa się agent brytyjskiego wywiadu, bohater powieści Iana Fleminga?
+Answer 31: James Bond
+First candidate: James Bond | Ratio: 1.0
+
+Question 32: W jakim stylu wykonany został nagrobek Kazimierza Jagiellończyka?
+Answer 32: gotyckim
+First candidate: Ołtarz Wita Stwosza w Krakowie | Ratio: 0.15789473684210525
+
+Question 33: W którym wieku powstał na Widawie most św. Karola?
+Answer 33: w XIV	14
+First candidate: Kalendarium historii Sieradza | Ratio: 0.05405405405405406
+
+Question 34: W którym mieście zginęła w wypadku samochodowym księżna Diana?
+Answer 34: w Paryżu
+First candidate: Lata 90. XX wieku | Ratio: 0.16
+
+Question 35: Czy filatelistyka obejmuje także zbieranie kart i stempli pocztowych?
+Answer 35: tak
+First candidate: Bolesław III Krzywousty | Ratio: 0.07692307692307693
+
+Question 36: Kto grał postać Maliniaka w „Czterdziestolatku”?
+Answer 36: Roman Kłosowski
+First candidate: Roman Kłosowski | Ratio: 1.0
+
+Question 37: Na którym kontynencie występuje ryś iberyjski?
+Answer 37: w Europie
+First candidate: Ewolucja kotowatych | Ratio: 0.21428571428571427
+
+Question 38: Kto gra Kingę Zduńską w serialu „M jak miłość”?
+Answer 38: Katarzyna Cichopek
+First candidate: Katarzyna Cichopek | Ratio: 1.0
+
+Question 39: W których górach leżą wrota Chałubińskiego?
+Answer 39: w Tatrach
+First candidate: Rysy | Ratio: 0.0
+
+Question 40: Które wrota znajdują się w tytule filmu Romana Polańskiego?
+Answer 40: dziewiąte
+First candidate: Stanley Kubrick | Ratio: 0.16666666666666666
+
+Question 41: Na której japońskiej wyspie znajduje się port Yokohama?
+Answer 41: na Honsiu
+First candidate: Japonia | Ratio: 0.5
+
+Question 42: Proszę rozwinąć skrót powstałego w 1918 roku urzędu GUS.
+Answer 42: Główny Urząd Statystyczny
+First candidate: Narodowy socjalizm | Ratio: 0.27906976744186046
+
+Question 43: Do którego państwa należą wyspy Rodos i Korfu?
+Answer 43: do Grecji
+First candidate: Grecja | Ratio: 0.6666666666666666
+
+Question 44: Czy Stanisław Barańczak tłumaczył dzieła Szekspira?
+Answer 44: tak
+First candidate: William Shakespeare | Ratio: 0.18181818181818182
+
+Question 45: Jak nazywa się przyrząd do palenia i górny kieł dzika?
+Answer 45: fajka
+First candidate: Flaga Vanuatu | Ratio: 0.2222222222222222
+
+Question 46: W którym filmie Krzysztofa Kieślowskiego zagrali Olaf Lubaszenko i Grażyna Szapołowska?
+Answer 46: „Krótki film o miłości”
+First candidate: Krótki film o miłości | Ratio: 0.9545454545454546
+
+Question 47: Dokończ przysłowie: „dobry zwyczaj: nie...”?
+Answer 47: pożyczaj
+First candidate: Tłusty czwartek | Ratio: 0.43478260869565216
+
+Question 48: Ile trzeba zjeść z kimś soli, żeby dobrze go poznać?
+Answer 48: beczkę
+First candidate: Lista odcinków serialu Pomoc domowa | Ratio: 0.0975609756097561
+
+Question 49: Które polskie miasto nie od razu zbudowano?
+Answer 49: Kraków
+First candidate: Rzym | Ratio: 0.0
+
+Question 50: Gdzie miały miejsce objawienia z 1917 roku?
+Answer 50: w Fatimie
+First candidate: Matka Boża Fatimska | Ratio: 0.42857142857142855
+
+Question 51: W zdaniu: „Szybko przeskoczył przez płot” który wyraz jest przysłówkiem?
+Answer 51: szybko
+First candidate: Orzeczenie imienne | Ratio: 0.08333333333333333
+
+Question 52: Czy bioskop to urządzenie medyczne?
+Answer 52: nie
+First candidate: Wszczepialny kardiowerter-defibrylator serca | Ratio: 0.1276595744680851
+
+Question 53: Nad którą rzeką leżą miasta Grodno i Kowno?
+Answer 53: nad Niemnem	Niemen
+First candidate: Wrocław | Ratio: 0.08
+
+Question 54: Jak nazywa się potomek osadników portugalskich bądź hiszpańskich w Ameryce Południowej?
+Answer 54: Kreol
+First candidate: Kolonia (geografia polityczna) | Ratio: 0.17142857142857143
+
+Question 55: Tzw. suchy lód to stała postać którego związku chemicznego?
+Answer 55: dwutlenku węgla	CO2
+First candidate: Dwutlenek węgla | Ratio: 0.7647058823529411
+
+Question 56: Co z greckiego oznacza ochlokracja?
+Answer 56: rządy tłumu
+First candidate: Cyceron | Ratio: 0.1111111111111111
+
+Question 57: W którym mieście rozgrywa się akcja powieści „Książę i żebrak” Marka Twaina?
+Answer 57: w Londynie
+First candidate: Sybil Danning | Ratio: 0.34782608695652173
+
+Question 58: Uczniem którego greckiego filozofa był Arystyp z Cyreny, twórca hedonizmu?
+Answer 58: Sokratesa
+First candidate: Hetera | Ratio: 0.4
+
+Question 59: Czy Anna Jagiellonka – księżna pomorska i Anna Jagiellonka – królowa Polski to ta sama osoba?
+Answer 59: nie
+First candidate: Jadwiga Andegaweńska | Ratio: 0.17391304347826086
+
+Question 60: Jaki kształt ma wimpel, bandera statków handlowych?
+Answer 60: trójkątny
+First candidate: Dar Pomorza | Ratio: 0.1
+
+Question 61: Czy w Bałtyku występują makrele?
+Answer 61: tak
+First candidate: Morświn zwyczajny | Ratio: 0.1
+
+Question 62: W którym roku podczas II wojny światowej włoski rząd wypowiedział wojnę Hitlerowi?
+Answer 62: w 1943
+First candidate: Benito Mussolini | Ratio: 0.09090909090909091
+
+Question 63: Ile stopni wynosi suma kątów wewnętrznych czworokąta?
+Answer 63: 360
+First candidate: Trójkąt | Ratio: 0.0
+
+Question 64: Jaka nierozstrzygnięta bitwa została opisana w książce „Wojna i pokój”?
+Answer 64: bitwa pod Borodino
+First candidate: Wydarzenia z historii Śródziemia | Ratio: 0.32
+
+Question 65: W którym mieście Australii znajduje się słynna opera?
+Answer 65: w Sydney
+First candidate: Sydney | Ratio: 0.8571428571428571
+
+Question 66: Które państwo podarowało USA Statuę Wolności?
+Answer 66: Francja
+First candidate: Frédéric Auguste Bartholdi | Ratio: 0.24242424242424243
+
+Question 67: W której dziedzinie odnosiła sukcesy Steffi Graff?
+Answer 67: w tenisie	w tenisie ziemnym
+First candidate: 1969 | Ratio: 0.0
+
+Question 68: Jak nazywała się mistrzyni Polski w narciarstwie alpejskim, zamordowana przez hitlerowców w 1941 za udział w ruchu oporu?
+Answer 68: Helena Marusarzówna
+First candidate: Francuskie powstanie narodowowyzwoleńcze | Ratio: 0.23728813559322035
+
+Question 69: Baron to tytuł wyższy czy niższy niż hrabia?
+Answer 69: niższy
+First candidate: Jan Henryk XV Hochberg książę von Pless | Ratio: 0.17777777777777778
+
+Question 70: Który święty, rybak z Betsaidy, jest patronem rybaków?
+Answer 70: Piotr
+First candidate: Andrzej Apostoł | Ratio: 0.2
+
+Question 71: Na którym kontynencie leży Gabon?
+Answer 71: w Afryce
+First candidate: Algier | Ratio: 0.2857142857142857
+
+Question 72: W którym wieku żył Dżyngis-chan?
+Answer 72: w XIII	13
+First candidate: Historia Uzbekistanu | Ratio: 0.06896551724137931
+
+Question 73: Z której dynastii pochodził król, który przeniósł stolicę Polski z Krakowa do Warszawy?
+Answer 73: Wazów
+First candidate: Zygmunt III Waza | Ratio: 0.2857142857142857
+
+Question 74: Z którego kontynentu pochodzi drzewo liczi?
+Answer 74: z Azji
+First candidate: Jagodzian rambutan | Ratio: 0.16666666666666666
+
+Question 75: W którym państwie leży Klondike, obszar znany z wydobycia złota?
+Answer 75: w Kanadzie
+First candidate: Dalstroj | Ratio: 0.1111111111111111
+
+Question 76: Jak nazywał się grecki bóg, który nosił kaduceusz?
+Answer 76: Hermes
+First candidate: Merkury | Ratio: 0.3076923076923077
+
+Question 77: Jak nazywa się tradycyjna żydowska czapka?
+Answer 77: jarmułka	kipa	sztrajmł	sztrajmel	sztrejmł
+First candidate: Biłgoraj | Ratio: 0.20408163265306123
+
+Question 78: Kto w Polsce powołuje pierwszego prezesa Sądu Najwyższego?
+Answer 78: prezydent
+First candidate: Trybunał Stanu | Ratio: 0.34782608695652173
+
+Question 79: Gdzie w październiku 1813 roku stoczono bitwę przegraną przez Napoleona?
+Answer 79: pod Lipskiem
+First candidate: Józef Bem | Ratio: 0.2857142857142857
+
+Question 80: W którym państwie najwyższym odznaczeniem jest krzyż Wiktorii?
+Answer 80: w Wielkiej Brytanii
+First candidate: Elżbieta II | Ratio: 0.3333333333333333
+
+Question 81: Która operetka Johanna Straussa ma w swoim tytule latającego ssaka?
+Answer 81: Zemsta nietoperza
+First candidate: Rodan – ptak śmierci | Ratio: 0.32432432432432434
+
+Question 82: Nad którą rzeką leży Kazimierz Dolny?
+Answer 82: nad Wisłą
+First candidate: Nałęczów | Ratio: 0.23529411764705882
+
+Question 83: Jak nazywa się najwyższy szczyt Beskidu Sądeckiego?
+Answer 83: Radziejowa
+First candidate: Mogielica | Ratio: 0.3157894736842105
+
+Question 84: Ktoś „nie w ciemię bity” to ktoś sprytny czy naiwny?
+Answer 84: sprytny
+First candidate: Lista postaci ze świata Kubusia Puchatka | Ratio: 0.1276595744680851
+
+Question 85: Jak nazywał się przodownik chóru w starożytnym teatrze greckim?
+Answer 85: koryfeusz
+First candidate: Stasimon | Ratio: 0.11764705882352941
+
+Question 86: Jak nazywa się jednostka w lotnictwie licząca 2–3 eskadry?
+Answer 86: dywizjon	pułk lotniczy
+First candidate: Su-25 | Ratio: 0.07407407407407407
+
+Question 87: W którym roku założono NATO?
+Answer 87: w 1949
+First candidate: Operacja Allied Force | Ratio: 0.07407407407407407
+
+Question 88: Co produkowała wytwórnia astronoma Jana Heweliusza?
+Answer 88: piwo
+First candidate: Kościół św. Katarzyny w Gdańsku | Ratio: 0.11428571428571428
+
+Question 89: W którym dniu tygodnia Robinson Crusoe spotkał Piętaszka?
+Answer 89: w piątek
+First candidate: Robinsonowie warszawscy | Ratio: 0.1935483870967742
+
+Question 90: Jak nazywa się obchodzone 31 października święto w krajach anglosaskich?
+Answer 90: Halloween
+First candidate: Kanada | Ratio: 0.26666666666666666
+
+Question 91: W którym wieku Dunlop wynalazł gumową oponę?
+Answer 91: w XIX	19
+First candidate: Robert William Thomson | Ratio: 0.06666666666666667
+
+Question 92: Co wykluwa się z żabiego skrzeku?
+Answer 92: kijanki
+First candidate: Płazy | Ratio: 0.16666666666666666
+
+Question 93: Mistrzostwa świata w której dyscyplinie bronił w 2013 roku Sergio Martinez?
+Answer 93: w boksie
+First candidate: Serhij Dzyndzyruk | Ratio: 0.16
+
+Question 94: Kardynał Richelieu był sekretarzem którego francuskiego króla?
+Answer 94: Ludwika XIII
+First candidate: Ludwik XV | Ratio: 0.5714285714285714
+
+Question 95: Z jakiego materiału wykonana jest rzeźba Augusta Rodina „Myśliciel”?
+Answer 95: z brązu
+First candidate: Emisje krajowe monet 2 euro | Ratio: 0.17647058823529413
+
+Question 96: Jak nazywa się polski okręt bojowy, którym brał udział w II wojnie światowej, a od 40 lat znajduje się w Gdyni?
+Answer 96: Błyskawica
+First candidate: ORP Orzeł (1938) | Ratio: 0.07692307692307693
+
+Question 97: „Biega, krzyczy pan Hilary” – kto jest autorem tych słów?
+Answer 97: Julian Tuwim
+First candidate: Polska Rzeczpospolita Ludowa | Ratio: 0.3
+
+Question 98: Kto był odkrywcą wodospadów Wiktorii?
+Answer 98: David Livingstone
+First candidate: Basen infinity | Ratio: 0.3870967741935484
+
+Question 99: W którym miesiącu przypada wspomnienie tzw. zimnych ogrodników?
+Answer 99: w maju
+First candidate: Święty Serwacy | Ratio: 0.3
+
+Question 100: Jak nazywa się elektroda połączona z ujemnym biegunem źródła prądu?
+Answer 100: katoda
+First candidate: Ochrona katodowa | Ratio: 0.5454545454545454
+
+Question 101: Czy traszka grzebieniasta występuje w Polsce w naturalnym środowisku?
+Answer 101: tak
+First candidate: Rezerwat przyrody Jata | Ratio: 0.16
+
+Question 102: „Coś Ty Atenom zrobił, Sokratesie” – czyjego autorstwa jest to utwór?
+Answer 102: Norwida
+First candidate: Przedimek w języku angielskim | Ratio: 0.16666666666666666
+
+Question 103: Który władca doprowadził do rozbicia dzielnicowego Polski?
+Answer 103: Bolesław Krzywousty
+First candidate: Województwo | Ratio: 0.4
+
+Question 104: Jak nazywa się wieś, w której Adam Mickiewicz osadził akcję „Pana Tadeusza”?
+Answer 104: Soplicowo
+First candidate: Rzeszów | Ratio: 0.125
+
+Question 105: Z mleka którego zwierzęcia wyrabiana jest serwatka zwana żętycą?
+Answer 105: owcy
+First candidate: Podhalanie | Ratio: 0.14285714285714285
+
+Question 106: Jaki tytuł arystokratyczny nosił Zygmunt Krasiński?
+Answer 106: hrabia
+First candidate: Leliwa (herb szlachecki) | Ratio: 0.26666666666666666
+
+Question 107: Czy sombrero to kapelusz, danie czy taniec?
+Answer 107: kapelusz
+First candidate: Kaszuby | Ratio: 0.4
+
+Question 108: Kto w mitologii greckiej był bogiem świata zmarłych?
+Answer 108: Hades
+First candidate: Hades | Ratio: 1.0
+
+Question 109: Jak nazywa się wybrany w 2019 r. prezydent Ukrainy?
+Answer 109: Wołodymyr Zełenski
+First candidate: Aleksander Kwaśniewski | Ratio: 0.4
+
+Question 110: W którym państwie w latach 50-tych XX wieku wydana została pierwsza karta kredytowa?
+Answer 110: w Stanach Zjednoczonych	w USA
+First candidate: Średniowiecze | Ratio: 0.2857142857142857
+
+Question 111: Jak miał na imię rycerz Okrągłego Stołu pałający uczuciem do królowej Ginewry, żony króla Artura?
+Answer 111: Lancelot
+First candidate: Chrétien de Troyes | Ratio: 0.23076923076923078
+
+Question 112: W którym polskim kabarecie pojawiały się postaci pana Czesia, Tureckiego?
+Answer 112: w Kabarecie Olgi Lipińskiej
+First candidate: Literatura rosyjska | Ratio: 0.21739130434782608
+
+Question 113: Do kogo skierowane były w „Panu Tadeuszu” słowa: „niewdzięczny”?
+Answer 113: do Tadeusza
+First candidate: Gall Anonim | Ratio: 0.09090909090909091
+
+Question 114: Wyspy Zielonego Przylądka leżą bliżej Afryki czy Azji?
+Answer 114: Afryki
+First candidate: Geografia Seszeli | Ratio: 0.17391304347826086
+
+Question 115: Kto zagrał tytułową rolę w Pułkowniku Kwiatkowskim?
+Answer 115: Marek Kondrat
+First candidate: Marek Kondrat | Ratio: 1.0
+
+Question 116: Na którym oceanie występują w strefie równikowej prąd morski Cromwella?
+Answer 116: na Oceanie Spokojnym	na Pacyfiku
+First candidate: Szerokość geograficzna zero | Ratio: 0.2711864406779661
+
+Question 117: Jak nazywał się okręt podwodny kapitana Nemo?
+Answer 117: Nautilus
+First candidate: Nautilus (1800) | Ratio: 0.6956521739130435
+
+Question 118: „Wiatr od wschodu” to część której książki Stefana Żeromskiego?
+Answer 118: „Przedwiośnia”
+First candidate: Przedwiośnie (powieść) | Ratio: 0.6666666666666666
+
+Question 119: Jak nazywa się polski malarz XIX-wieczny, autor cyklu rysunków „Polonia”?
+Answer 119: Artur Grottger
+First candidate: Stanisław August Poniatowski | Ratio: 0.23809523809523808
+
+Question 120: Z którego państwa pochodzi twórca Gadu-Gadu?
+Answer 120: z Polski
+First candidate: Polska | Ratio: 0.7142857142857143
+
+Question 121: Z którego wieku pochodzą Drzwi Gnieźnieńskie?
+Answer 121: z XII	12
+First candidate: Niewolnictwo Słowian | Ratio: 0.07142857142857142
+
+Question 122: Jak z łaciny nazywa się zmętnienie soczewki oka?
+Answer 122: katarakta
+First candidate: Fakoemulsyfikacja | Ratio: 0.23076923076923078
+
+Question 123: Kto był następcą Michała Korybuta Wiśniowieckiego?
+Answer 123: Jan III Sobieski
+First candidate: Jan II Kazimierz Waza | Ratio: 0.43243243243243246
+
+Question 124: Jak nazywa się szczególny sąd, przed którym odpowiadają premier, prezydent i ministrowie?
+Answer 124: Trybunał Stanu
+First candidate: Ustrój polityczny Francji | Ratio: 0.3076923076923077
+
+Question 125: Co z łaciny znaczy zwrot „manu propria”?
+Answer 125: własnoręcznie
+First candidate: Brachygrafia | Ratio: 0.24
+
+Question 126: Jak nazywa się mityczne zwierzę z jednym rogiem, symbol szczęścia i niewinności?
+Answer 126: jednorożec
+First candidate: Lista postaci drugoplanowych cyklu Harry Potter | Ratio: 0.21052631578947367
+
+Question 127: Mecenasem którego wielkiego kompozytora był król bawarski Ludwik II?
+Answer 127: Ryszarda Wagnera
+First candidate: 25 maja | Ratio: 0.2608695652173913
+
+Question 128: Jaki przydomek nosił włoski malarz Bernardo Belotto?
+Answer 128: Canaletto
+First candidate: Elekcja Stanisława Augusta | Ratio: 0.22857142857142856
+
+Question 129: Jak nazywał się zespół, w którym występował Marek Grechuta?
+Answer 129: Anawa
+First candidate: Cracovia (piłka nożna) | Ratio: 0.14814814814814814
+
+Question 130: Na których wyspach według Jana Brzechwy widziano osła, którego mrówka niosła?
+Answer 130: na Bergamutach
+First candidate: Zasada nieoznaczoności | Ratio: 0.2777777777777778
+
+Question 131: Kto za pomocą doświadczenia z wahadłem wykazał istnienie ruchu obrotowego Ziemi?
+Answer 131: Jean Foucault
+First candidate: Dziesięć najpiękniejszych eksperymentów z fizyki | Ratio: 0.16393442622950818
+
+Question 132: Na granicy jakiego państwa i Egiptu znajduje się miasto Abu Simbel ze świątynią Ramzesa II?
+Answer 132: Sudan
+First candidate: Memfis | Ratio: 0.0
+
+Question 133: Czy Napoleon III był cesarzem?
+Answer 133: tak
+First candidate: Ród Bonapartów | Ratio: 0.11764705882352941
+
+Question 134: Posąg której bogini był największą rzeźbą Fidiasza poza Zeusem?
+Answer 134: Ateny Partenos
+First candidate: Sztuka grecka w okresie klasycznym | Ratio: 0.25
+
+Question 135: Czy badanie na obecność alkoholu we krwi może zostać przeprowadzone bez zgody badanego?
+Answer 135: tak
+First candidate: Choroba Alzheimera | Ratio: 0.09523809523809523
+
+Question 136: Ile skrzydeł mają pchły?
+Answer 136: nie mają skrzydeł	zero	0
+First candidate: Jętki | Ratio: 0.13793103448275862
+
+Question 137: W którym wieku powstała pierwsza fabryka płyt gramofonowych?
+Answer 137: w XIX	19
+First candidate: Gamrat | Ratio: 0.0
+
+Question 138: Jaki żółty kwiat symbolizuje obchody rocznicy powstania w getcie warszawskim?
+Answer 138: żonkil
+First candidate: Historia Budapesztu | Ratio: 0.16
+
+Question 139: Który apostoł wątpił w zmartwychwstanie?
+Answer 139: Tomasz
+First candidate: Eucharystia (sakrament) | Ratio: 0.13793103448275862
+
+Question 140: Skąd pochodził Judasz?
+Answer 140: z Kariotu
+First candidate: Pruchnik | Ratio: 0.23529411764705882
+
+Question 141: O co był oskarżony bohater filmu „Poszukiwany, poszukiwana”?
+Answer 141: o kradzież obrazu
+First candidate: Jestem mordercą | Ratio: 0.3125
+
+Question 142: Jak nazywał się pierwszy dzień każdego miesiąca w kalendarzu rzymskim?
+Answer 142: kalendy
+First candidate: Chanuka | Ratio: 0.2857142857142857
+
+Question 143: W którym roku podpisano skierowany do premiera PRL tzw. List 34?
+Answer 143: w 1964
+First candidate: Polska Rzeczpospolita Ludowa | Ratio: 0.058823529411764705
+
+Question 144: Jak nazywa się wyobrażenie martwego Jezusa spoczywającego na kolanach Maryi?
+Answer 144: pieta
+First candidate: Cimitero Monumentale di Staglieno | Ratio: 0.21052631578947367
+
+Question 145: Jak nazywał się reżyser filmu „Obywatel Kane”?
+Answer 145: Orson Welles
+First candidate: Roman Polański | Ratio: 0.38461538461538464
+
+Question 146: Jakiego obrazu dotyczy akcja filmu Vinci?
+Answer 146: „Dama z łasiczką”
+First candidate: Lista odcinków serialu Miasteczko South Park | Ratio: 0.26229508196721313
+
+Question 147: Marmury Elgina to świątynia w Atenach czy zbiór starożytnych rzeźb greckich?
+Answer 147: zbiór starożytnych rzeźb greckich
+First candidate: Partenon | Ratio: 0.1951219512195122
+
+Question 148: W której europejskiej stolicy znajduje się muzeum Edwarda Muncha?
+Answer 148: w Oslo
+First candidate: Reykjavík | Ratio: 0.0
+
+Question 149: Kto w 1517 r. zapoczątkował w Kościele reformację?
+Answer 149: Marcin Luter
+First candidate: Luteranizm | Ratio: 0.45454545454545453
+
+Question 150: Które zwierzę jest symbolem hossy na giełdzie?
+Answer 150: byk
+First candidate: Królewiec | Ratio: 0.0
+
+Question 151: Czy w hokeju na lodzie występuje spalony?
+Answer 151: nie
+First candidate: Bramkarz | Ratio: 0.0
+
+Question 152: Jak nazywa się drewniana nadbudówka na dziobie bądź rufie dawnych żaglowców?
+Answer 152: kasztel
+First candidate: ORP Bałtyk (1896) | Ratio: 0.16666666666666666
+
+Question 153: Z którego wieku pochodzi kierunek w meblarstwie zwany biedermeier?
+Answer 153: z XIX	19
+First candidate: Niemcy | Ratio: 0.0
+
+Question 154: Jak nazywał się twórca Polskiej Akcji Humanitarnej?
+Answer 154: Janina Ochojska
+First candidate: Wincenty Witos | Ratio: 0.3448275862068966
+
+Question 155: Kto powołuje prezesa NIK?
+Answer 155: Sejm
+First candidate: Najwyższa Izba Kontroli | Ratio: 0.07407407407407407
+
+Question 156: W którym państwie w 1958 r. rozpoczęła się kampania polityczna nazwana Wielkim Skokiem?
+Answer 156: w Chinach
+First candidate: Mao Zedong | Ratio: 0.21052631578947367
+
+Question 157: Który polski król pokonał Turków pod Wiedniem?
+Answer 157: Jan III Sobieski
+First candidate: Władysław II Jagiellończyk | Ratio: 0.38095238095238093
+
+Question 158: W jakim miejscu pracuje mincerz?
+Answer 158: w mennicy
+First candidate: Bolesław III Krzywousty | Ratio: 0.1875
+
+Question 159: Jaki jest skrót nazwy Stowarzyszenia Architektów Polskich?
+Answer 159: SARP
+First candidate: Związek Socjalistycznych Republik Radzieckich | Ratio: 0.08163265306122448
+
+Question 160: Jak nazywa się aktor, który dwukrotnie wcielił się w postać barbarzyńcy Conana?
+Answer 160: Arnold Schwarzenegger
+First candidate: Historia gier komputerowych (siódma generacja) | Ratio: 0.26865671641791045
+
+Question 161: Która zupa jest symbolem rzeczy bardzo taniej?
+Answer 161: barszcz
+First candidate: Republika Zjednoczonych Prowincji | Ratio: 0.2
+
+Question 162: W którym polskim mieście znajduje się największy w Europie zespół zamkowy?
+Answer 162: w Malborku
+First candidate: Toruń | Ratio: 0.4
+

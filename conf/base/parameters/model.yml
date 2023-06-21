@@ -1,0 +1,18 @@
+# This is a boilerplate parameters config generated for pipeline 'binary_questions'
+# using Kedro 0.18.9.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://docs.kedro.org/en/0.18.9/kedro_project_setup/configuration.html#parameters
+
+model_name: 'papugapt2'
+
+model_params:
+  training_params:
+    batch_size: 1
+    block_size: 1024
+    epochs: 10
+    weight_decay: 0.1
+    warmup_steps: 100
+    lr_scheduler_type: "linear"
+    learning_rate: 0.0002
+    gradient_accumulation_steps: 8

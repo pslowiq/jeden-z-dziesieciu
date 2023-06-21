@@ -1,0 +1,10 @@
+# This is a boilerplate parameters config generated for pipeline 'binary_questions'
+# using Kedro 0.18.9.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://docs.kedro.org/en/0.18.9/kedro_project_setup/configuration.html#parameters
+
+filepath: 'data/01_raw/train_merged.txt'
+#filepath: 'data/01_raw/Wikipedia_PL/dump5.txt'
+
+#find . -name \*\*\*\*.txt -print0 | xargs -0 cat | perl -pe 's{\n}{ }g' | perl -pe 's{>}{>\n}g' | perl -pe 's{<}{\n<}g' | grep -v '<' | grep -v '^\s*$' > dump.txt

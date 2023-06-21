@@ -1,0 +1,17 @@
+[tool.kedro]
+package_name = "jeden_z_dziesięciu"
+project_name = "Jeden z Dziesięciu"
+kedro_init_version = "0.18.9"
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+addopts = """
+--cov-report term-missing \
+--cov src/jeden_z_dziesięciu -ra"""
+
+[tool.coverage.report]
+fail_under = 0
+show_missing = true
+exclude_lines = ["pragma: no cover", "raise NotImplementedError"]
